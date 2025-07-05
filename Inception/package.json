@@ -1,0 +1,25 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "this is namaste react by bhuvaa rutvik",
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "homepage": "https://github.com/Rutvik-Bhuvaa/React-JS#readme",
+  "bugs": {
+    "url": "https://github.com/Rutvik-Bhuvaa/React-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rutvik-Bhuvaa/React-JS.git"
+  },
+  "license": "ISC",
+  "author": "Rutvik Bhuvaa",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
