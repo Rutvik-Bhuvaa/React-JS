@@ -15,3 +15,11 @@ import ReactDOM from "react-dom/client";
  * - address
  * - contact
  */
+
+const AppLayout = () => {
+  return <div className="app"></div>;
+};
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
+root.render(<AppLayout />);
